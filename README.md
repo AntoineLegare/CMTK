@@ -5,9 +5,6 @@ Python API for the CMTK image registration toolkit.
 
 The Computational Morphometry Toolkit (CMTK) software is available at https://www.nitrc.org/frs/?group_id=212. 
 
-## Tutorial
-The .pdf document (french only) offers a few command lines to get started.
-
 ## Upcoming changes:
 - Making a complete README file;
 - Renaming variables and methods;
