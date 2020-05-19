@@ -9,6 +9,7 @@ The Computational Morphometry Toolkit (CMTK) software is available at https://ww
 The .pdf document (french only) offers a few command lines to get started.
 
 ## Upcoming changes:
+- Making a complete Readme.md file;
 - Renaming of variables and methods;
 - Making a tutorial notebook;
 - Implementing physical coordinates.
